@@ -50,19 +50,3 @@ reader.readAsText(input.files[0]);
 },false);
 
 
-//EX funzione non implementata
-/*  for(let i=0;i<lines.length;i++){
-        for(let j=i+1;j<lines.length;j++){
-            
-            if(lines[i][0]===lines[j][0]){
-           
-            if(lines[i][1]!=lines[j][1]){
-            lineSecond[i][1]=lines[i][1]+"/"+lines[j][1];
-         }
-            lineSecond.splice(j,1);
-        }else{
-         
-        }
-        }
-        
-    }*/
